@@ -2,6 +2,7 @@
 	Bem-vindo ao meu repositório de Python! Aqui você encontrará um registro de tudo o que aprendi e pratiquei durante o curso. O repositório está organizado em duas pastas principais: Aulas e Exercícios.
 
 *🗂 Estrutura do Repositório*
+
 *📚 Aulas/*
 	Esta pasta contém as explicações das aulas que estou acompanhando. Cada arquivo é uma unidade de aprendizado, trazendo:
 	
